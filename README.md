@@ -172,10 +172,8 @@ The source is designed as a playground. Try these modifications:
 ## Author
 
 **MD. Osiur Rahman Rahif**  
-ID: 23300149  
 
-Course: Computer Graphics Lab (`0613-CSE-4013`)  
-Submitted to: Tanjina Akter, Assistant Professor, CSE, RPSU  
+Course: Computer Graphics Lab
 
 ---
 
